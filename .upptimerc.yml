@@ -1,7 +1,7 @@
 owner: yevhenv95
 repo: KyribaTopaz
 
-schedule: "*/60 * * * *"
+schedule: "0 * * * *"
 
 sites:
   - name: Kyriba Topaz – Web App
