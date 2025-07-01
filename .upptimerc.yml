@@ -1,9 +1,7 @@
+cron: "*/5 * * * *"
+
 owner: yevhenv95
 repo: KyribaTopaz
-
-on:
-  schedule:
-    - cron: "*/5 * * * *"
 
 sites:
   - name: Kyriba Topaz – Web App
