@@ -1,10 +1,12 @@
 owner: yevhenv95
 repo: KyribaTopaz
 
+schedule: "*/5 * * * *"
+
 sites:
   - name: Kyriba Topaz – Web App
     url: https://topaz.treasury-factory.com
-    maxResponseTime: 4000  # 4 seconds
+    maxResponseTime: 4000
     expectedStatus: 200
 
 status-website:
