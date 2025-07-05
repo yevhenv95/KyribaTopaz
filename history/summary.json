@@ -4,17 +4,17 @@
     "url": "https://topaz.treasury-factory.com",
     "icon": "https://icons.duckduckgo.com/ip3/topaz.treasury-factory.com.ico",
     "slug": "kyriba-topaz-web-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 728,
-    "timeDay": 767,
-    "timeWeek": 728,
-    "timeMonth": 728,
-    "timeYear": 728,
+    "time": 732,
+    "timeDay": 855,
+    "timeWeek": 732,
+    "timeMonth": 732,
+    "timeYear": 732,
     "dailyMinutesDown": {}
   }
 ]
