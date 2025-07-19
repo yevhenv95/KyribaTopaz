@@ -1,7 +1,7 @@
 url: https://topaz.treasury-factory.com
-status: down
-code: 503
-responseTime: 668
-lastUpdated: 2025-07-19T07:32:56.329Z
+status: up
+code: 200
+responseTime: 504
+lastUpdated: 2025-07-19T10:44:07.530Z
 startTime: 2025-07-01T12:57:46.462Z
 generator: Upptime <https://github.com/upptime/upptime>
